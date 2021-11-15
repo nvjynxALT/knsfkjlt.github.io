@@ -1,3 +1,0 @@
-Tutorial:gf:1
-Peppermint:mint:1
-Cold:mint:1
